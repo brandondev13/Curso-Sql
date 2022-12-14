@@ -1,7 +1,7 @@
 # SQL_Consultas_Basicas_A_Complejas
 <Hr>
 <br>
-Consultar y modificar información de una base de datos con el motor de base de datos relacional mas usado del mundo (MYSQL) 🚀
+Consultar y modificar datos con el motor de base de datos relacional mas usado del mundo (MYSQL) 🚀
 <br>
 <br>
 Construido con 🛠️
