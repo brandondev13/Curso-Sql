@@ -1,4 +1,4 @@
-# SQL_Consultas_Basicas_A_Complejas
+# Curso-Sql
 <Hr>
 <br>
 Consultar y modificar datos con el motor de base de datos relacional mas usado del mundo (MYSQL) 🚀
